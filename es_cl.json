@@ -36,7 +36,7 @@
   "lacImportFailed": "No se pudo realizar la importacion, comprueba el registro!",
   "sessionContinue": "Sesión activa desde hace %sec% segundos.",
   "messageLogin": "Inicia sesión escribiendo /login <contraseña>",
-  "messageRegister": "Registrate escribiendo /register <contraseña>",
+  "messageRegister": "Registrate escribiendo /register <contraseña> <contraseña>",
   "messageRegister2": "Regístrese escribiendo /register <contraseña> <repita-contraseña>",
   "errorRefreshProfile": "Tu cuenta ha sido modificada por un tercero, por favor vuelve a ingresar!",
   "errorNotRegistered": "Usuario no registrado!",
